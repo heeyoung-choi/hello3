@@ -1,0 +1,14 @@
+body{
+    background-image: url("spacex-rocket.jpg");
+    background-position: center;
+}
+.container{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#i-got-it{
+    background-color: #36454F;
+}

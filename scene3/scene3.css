@@ -1,0 +1,10 @@
+body{
+    background-image: url("space.jpg");
+    background-position: center;
+    display: flex;
+    text-align: center;
+}
+#choice{
+    background-color: #483D8B;
+    width: 350px;
+}
